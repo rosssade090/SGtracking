@@ -8,7 +8,32 @@ body{
 
 .noc{
     font-size: 30px;
-}  
+} 
+
+#filter {
+    text-align: right;
+}
+
+#category {
+    text-align: left;
+    }
+
+.input-group {
+width: 100% !important;
+flex-wrap: nowrap;
+}
+
+.col-3{
+padding-left: 0px;
+}
+
+#drop4 {
+    text-align: right;
+}
+
+
+
+
 
 
 
